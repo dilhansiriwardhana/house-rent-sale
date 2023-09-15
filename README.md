@@ -1,3 +1,18 @@
+![Screen Shot 2023-09-15 at 11 53 28 PM](https://github.com/dilhansiriwardhana/house-rent-sale/assets/76891526/8722dcb7-a365-49bf-8557-7e15eaf6cbe1)
+
+![Screen Shot 2023-09-15 at 11 53 37 PM](https://github.com/dilhansiriwardhana/house-rent-sale/assets/76891526/25071458-7e6a-4b34-a459-632fe5a4bd79)
+
+![Screen Shot 2023-09-15 at 11 54 25 PM](https://github.com/dilhansiriwardhana/house-rent-sale/assets/76891526/b4f65900-46d0-4b08-94f2-984083cca519)
+
+
+![Screen Shot 2023-09-15 at 11 57 13 PM](https://github.com/dilhansiriwardhana/house-rent-sale/assets/76891526/7454b630-106b-4ffc-9e41-ab6441fb43c3)
+
+
+![Screen Shot 2023-09-15 at 11 53 58 PM](https://github.com/dilhansiriwardhana/house-rent-sale/assets/76891526/355957cd-b4e6-452d-bcf8-4703d8ce2b9d)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
